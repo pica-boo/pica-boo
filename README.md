@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pica-boo
-- 👀 I’m interested in data analisys
+- 👀 I’m interested in data analysis
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on (i don't know now)
 - 📫 How to reach me (don't do it)
